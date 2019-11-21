@@ -69,6 +69,7 @@ argument that can be either <code>"XML"</code> or <code>"JSON"</code>.
 Note that after using the library, you have to close the ASTExtractor object using function <code>close</code>, i.e.:<pre><code>ast_extractor.close()</code></pre>
 
 
+
 Controlling the output
 ----------------------
 An Abstract Syntax Tree can be very complex, including details for every identifier of the code.
